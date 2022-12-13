@@ -1,0 +1,5 @@
+/* Add a circular radial gradient to produce black and red colors, with color-stops accordingly at 20 pixels and 70 pixels. */
+
+.item {
+    background: radial-gradient (circle, black 20 px, red 70 px);
+}
