@@ -3,3 +3,10 @@
 .item {
     background: radial-gradient (circle, black 20 px, red 70 px);
 }
+
+/* background-size
+Resize the background image to a height of 100 pixels and a width of 200 pixels. */
+
+.item{
+background-size: 200px 100px;
+}
